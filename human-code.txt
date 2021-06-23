@@ -1,0 +1,41 @@
+-Mercoledi 26 Giugno 2021     Gruppo 5 
+
+Problema
+
+6. Una lampadina in soggiorno si è appena fulminata, è ora di cambiarla.
+
+1) Divido il problema in due parti:
+
+      a)Una lampadina in soggiorno si è appena fulminata
+
+      b)è ora di cambiarla
+
+a) Problema: non si accende la luce in soggiorno, non è detto che sia la lampadina - verifica condizioni del problema
+
+      1) verifico che sia un problema localizzato al punto luce in soggiorno,e non una mancanza di energia elettrica,
+      provando ad accendere altre luci in casa (o verificando che altre apparecchiature elettriche funzionino, tipo il frigo)- 
+            SE VERO - mi organizzo per la intervenire sul punto luce di cui va  comunque verificato il buon funzionamento
+            SE FAlSO - aspetto il ripristino dell energia elettrica
+      
+b)è ora di cambiarla
+
+      Mi organizzo per la intervenire sul punto luce :
+            sedia o scaletta per raggiungere il lampadario
+
+            verifica di avere in casa una lampadina nuova, verifico al volo funzionamento su un punto luce accessibile (abat-jour ,flessibili ikea p.es.)
+                  SE Vero -> prendo e porto in soggiorno 
+                  SE Falso -> o si esce per acquistarla o in caso necessità si svita da altro punto luce (!!!TODO funzionamento)    
+            
+            In soggiorno salgo sulla sedia/scaletta, svito lampadina bruciata - avvito lampadina nuova
+
+            scendo, provo ad accendere la luce:
+             SE si accende -> ok  
+             SE non si accende ->
+                  a)caso su un milione di lampadina nuova bruciata, 
+                  b)problema sul portalampade non risolvibile al momento - > chiamare elettricista
+                        bb) In entrambi i casi risolvere il problema della luce in soggiorno trasferendo temporaneamente un punto luce da un altra stanza 
+            
+            
+Sistemare sedia e scaletta al loro posto, lampadina guasta NO nel vetro mi raccomando (almeno qui da me)
+
+      
